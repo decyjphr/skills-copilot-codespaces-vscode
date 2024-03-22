@@ -1,4 +1,4 @@
-// create a web server that listens on port 3000
+// Create web server that listens on port 3000
 // when a user visits the root route, they should see a form that includes a textarea where they can type a comment
 // when they submit the form, the comment should be saved to a file called comments.txt
 // after the comment has been saved, redirect the user back to the root route
